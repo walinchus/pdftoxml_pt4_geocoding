@@ -1,0 +1,1 @@
+Scrapes PDFs (currently 2) of knife crime stats from the Met Police publication page. Used to demonstrate using the .xpath function and testing if a number falls between certain ranges, with pdftoxml, for the ebook "Scraping for Journalists":http://leanpub.com/scrapingforjournalists.
