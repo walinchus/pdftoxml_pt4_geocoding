@@ -104,7 +104,7 @@ def scrape_and_look_for_next_link(url):
     scrapetable(root)
 
 #This will be used for relative links in later pages
-baseurl = "http://www.met.police.uk/foi/"
+baseurl = "https://web.archive.org/web/20160912010808/http://www.met.police.uk/foi/"
 #When added to the baseurl, this is our starting page 
 startingurl = "c_priorities_and_how_we_are_doing.htm"
 
